@@ -23,3 +23,12 @@
 
 
 ```
+
+|Component|Action|
+|----------|-------|
+|pom.xml|Update **artifactId** and **name**.|
+|VS Code Cache,Run Java|Clean Java Language Server Workspace.|
+|launch.json|Update projectName and mainClass and database.|
+|File System|Ensure the main Application file is in src/main/java/com/yourname/projectName/.|
+
+```
